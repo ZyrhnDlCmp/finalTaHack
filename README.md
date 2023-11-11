@@ -9,7 +9,7 @@ Open FinalTahack Folder
 
 Step 3: 
 Install venv on folder with the same directory as manage.py
--python -m venv "filename ng virtualenv nyo"
+- python -m venv "filename ng virtualenv nyo"
 
 Step 4:
 Run virtual environment
